@@ -3,7 +3,7 @@
  Sobre mis pasatiempos?.
   soy montañista y amante de la escalada en muro y roca "</h3>
 
-- 🔭 Actualmente estoy trabajando en [data-lovers](carolina2118.github.io/scl020-data-lovers/)
+- 🔭 Actualmente estoy estudiando javascript
 
 - 💬 Preguntame sobre **lo que gustes ❤️😉**
 
