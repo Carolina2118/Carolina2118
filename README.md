@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **lo que gustes ❤️😉**
 
-- 📫 como llegar a mi **loboscarolinaa@gmail.com**
+- 📫 como llegar a mi **caroalobos@gmail.com**
 
 <h3 align="left">Conectate conmigo:
 
