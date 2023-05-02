@@ -25,7 +25,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"alt="react" width="40" height="40" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+</p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carolina2118&show_icons=true&title_color=cf99d6&locale=en&layout=compact" alt="#cf99d6"/></p>
 
