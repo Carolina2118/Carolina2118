@@ -27,6 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carolina2118&show_icons=true&title_color=cf99d6&locale=en&layout=compact" alt="#cf99d6"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Carolina2118&show_icons=true&title_color=e90c89&hide_border=true&locale=en" alt="Carolina2118" /></p>
+</p><p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina2118" alt="Carolina2118"/></p>
