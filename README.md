@@ -1,13 +1,12 @@
-<h1 align="center"> ♻️ 🍀 💫 "Hola soy Carito lobos" 💫 🍀 ♻️ </h1>
+<h1 align="center"> ♻️ 🍀 💫 "Hola soy Carolina Lobos" 💫 🍀 ♻️ </h1>
 <h3 align="center">Soy una FrontEnd || Developer apasionada con ganas de seguir aprendiendo...
  Sobre mis pasatiempos?.
   soy montañista y amante de la escalada en muro y roca "</h3>
 
-- 🔭 Actualmente estoy estudiando javascript
-
+- 🔭 Actualmente estoy estudiando en platzi ruta Backend con PHP.
 - 💬 Preguntame sobre **lo que gustes ❤️😉**
 
-- 📫 como llegar a mi **caroalobos@gmail.com**
+- 📫 como llegar a mi **caroalobos@gmail.com** o en mis redes sociales.
 
 <h3 align="left">Conectate conmigo:
 
