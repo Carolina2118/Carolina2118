@@ -6,7 +6,7 @@
 - 🔭 Actualmente estoy estudiando en platzi ruta Backend con PHP.
 - 💬 Preguntame sobre **lo que gustes ❤️😉**
 
-- 📫 como llegar a mi **caroalobos@gmail.com** o en mis redes sociales.
+- 📫 como llegar a mi **loboscarolinaa@gmail.com** o en mis redes sociales.
 
 <h3 align="left">Conectate conmigo:
 
