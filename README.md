@@ -28,4 +28,3 @@
  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
 </p><p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina2118" alt="Carolina2118"/></p>
